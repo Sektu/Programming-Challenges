@@ -11,6 +11,7 @@ package RandomNameGenerator;
  */
 public class RandomNameGenerator {
     public static void main(String[] args) {
-        System.out.print("Welcome to random name generator!");
+        //Random names generator + credentials!
+        System.out.print("Welcome to random name generator!\n");
     }
 }

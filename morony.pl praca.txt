@@ -1,0 +1,14 @@
+http://morony.pl/?p=994
+
+Google
+
+zagadka:
+Bawisz sie z dziecmi w rzuty moneta (do dyspozycji jest wiele monet).
+Monety nie sa idealne i prawdopodobienstwo reszki wynosi 3/7 a orzelka 4/7.
+Zaproponuj dzieciom najprostszy sposób uzyskania “mniej wiecej” uczciwego wyniku losowania
+(czyli takiego, który wypada z prawdopodobienstwem ok. 0.5).
+
+zadansko - python
+Twój kolega prowadzi nieskonczony eksperyment fizyczny, gdzie mierzona jest wartosc liczbowa.
+Napisz dla niego program w pythonie, który umozliwi ciagle obliczanie sredniej kroczacej z tych pomiarów.
+Zaproponuj interfejs pomiedzy eksperymentem a twoim programem.
